@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/My-Project-Anime/static/css/main.71b9291e.css",
+    "main.js": "/My-Project-Anime/static/js/main.c1659d11.js",
+    "static/js/787.bc7d429a.chunk.js": "/My-Project-Anime/static/js/787.bc7d429a.chunk.js",
+    "static/media/NarutoPic.png": "/My-Project-Anime/static/media/NarutoPic.e8dab185bca7afb64269.png",
+    "static/media/ErynYager.png": "/My-Project-Anime/static/media/ErynYager.9ebc13d14663085f8946.png",
+    "static/media/Kurama.png": "/My-Project-Anime/static/media/Kurama.5fbcb644d71fb753eebe.png",
+    "static/media/—Pngtree—floating realistic clouds_8623463.png": "/My-Project-Anime/static/media/—Pngtree—floating realistic clouds_8623463.13d37d7358bcdeb250f3.png",
+    "static/media/06208cd1-478d-4b23-9165-4edc3a15b3e4-removebg-preview.png": "/My-Project-Anime/static/media/06208cd1-478d-4b23-9165-4edc3a15b3e4-removebg-preview.e4a0610c4f2b2ba947e1.png",
+    "index.html": "/My-Project-Anime/index.html",
+    "main.71b9291e.css.map": "/My-Project-Anime/static/css/main.71b9291e.css.map",
+    "main.c1659d11.js.map": "/My-Project-Anime/static/js/main.c1659d11.js.map",
+    "787.bc7d429a.chunk.js.map": "/My-Project-Anime/static/js/787.bc7d429a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71b9291e.css",
+    "static/js/main.c1659d11.js"
+  ]
+}
